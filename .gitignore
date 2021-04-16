@@ -1,0 +1,5 @@
+/.idea/
+/attacker/malicious_wav/node_modules/
+
+.DS_Store
+*.wav
